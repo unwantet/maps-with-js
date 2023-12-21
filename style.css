@@ -102,3 +102,7 @@ h6{
     opacity: 0.15;
     background: #000;
 }
+.maps{
+    width: 1440px;
+    height: 800px;
+}
